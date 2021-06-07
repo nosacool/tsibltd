@@ -104,31 +104,6 @@
         </div>
     </section>
 
-    <section class="no-top no-bottom bg-color">
-        <div class="container-fluid">
-            <div class="row align-items-center">
-                <div class="col-md-6 bg-color-secondary">
-                    <div class="padding100">
-                        <h2>Call us for further information. Priva customer care is here to help you anytime.</h2>
-                        <p class="lead">We're available for 24 hours!</p>
-                    </div>
-                </div>
-
-                <div class="col-md-6 text-lg-center text-sm-center text-light">
-                    <div class="phone-num-big">
-                        <i class="fa fa-phone id-color-secondary"></i>
-                        <span class="pnb-text">
-                            Call Us Now
-                        </span>
-                        <span class="pnb-num">
-                            1 200 333 800
-                        </span>
-                    </div>
-                    <a href="#" class="btn-custom capsule med">Contact Us</a>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <section id="section-fun-facts" class="pt60 pb60">
         <div class="container">

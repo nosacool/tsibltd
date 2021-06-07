@@ -1,10 +1,13 @@
 
     <meta charset="utf-8" />
-    <title>Priva - Insurance Company Website Template</title>
+    <title>Total Security Insurance Brokers - Insurance Brokers Company Nigeria</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta content="Priva - Insurance Company Website Template" name="description" />
     <meta content="" name="keywords" />
     <meta content="" name="author" />
+    <link rel="icon" href="{{asset('images/tsib_logo.png')}}" sizes="32x32" />
+<link rel="icon" href="{{asset('images/tsib_logo.png')}}" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="{{asset('images/tsib_logo.png')}}" />
 
     <!--[if lt IE 9]>
         <script src="js/html5shiv.js"></script>
@@ -23,6 +26,7 @@
     <link href="{{asset('css/magnific-popup.css')}}" rel="stylesheet" type="text/css" />
     <link href="{{asset('css/jquery.countdown.css')}}" rel="stylesheet" type="text/css" />
     <link href="{{asset('css/style.css')}}" rel="stylesheet" type="text/css" />
+    <link href="{{asset('css/downloadbutton.css')}}" rel="stylesheet" type="text/css" />
 
     <!-- color scheme -->
     <link id="colors" href="{{asset('css/colors/scheme-01.css')}}" rel="stylesheet" type="text/css" />

@@ -1,3 +1,27 @@
+<section data-bgimage="url({{asset('images/background/4.jpg')}}) top" class="text-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 wow fadeInRight" data-wow-delay=".2s">
+                <h2>Call us for further information. Total Security Insurance Brokers customer care is here to help you anytime.</h2>
+                <p class="lead id-color-secondary">We're available for 24 hours!</p>
+            </div>
+
+            <div class="col-md-6 text-lg-center text-sm-center wow fadeInRight" data-wow-delay=".4s">
+                <div class="phone-num-big">
+                    <i class="fa fa-phone"></i>
+                    <span class="pnb-text id-color-secondary">
+                        Call Us Now
+                    </span>
+                    <span class="pnb-num">
+                        1 200 333 800
+                    </span>
+                </div>
+                <a href="#" class="btn-custom invert med">Contact Us</a>
+            </div>
+        </div>
+    </div>
+</section>
+
 <footer>
     <div class="container">
         <div class="row">
@@ -6,12 +30,10 @@
                 <div class="widget">
                     <h5>Our Company</h5>
                     <ul>
-                        <li><a href="about.html">About Us</a></li>
-                        <li><a href="why-choose-us.html">Why Choose Us</a></li>
-                        <li><a href="jobs.html">Careers</a></li>
-                        <li><a href="contact.html">Contact Us</a></li>
-                        <li><a href="contact.html">News</a></li>
-                    </ul>
+                        <li><a href="/about-us">About Us</a></li>
+                        <li><a href="/why-choose-us">Why Choose Us</a></li>
+                        <li><a href="/contact-us">Contact Us</a></li>
+                     </ul>
                 </div>
             </div>
 
@@ -19,12 +41,9 @@
                 <div class="widget">
                     <h5>Insurance</h5>
                     <ul>
-                       <li><a href="features.html">Life Insurance</a></li>
-                       <li><a href="pricing.html">Home Insurance</a></li>
-                       <li><a href="reviews.html">Auto Insurance</a></li>
-                       <li><a href="download.html">Health Insurance</a></li>
-                       <li><a href="download.html">Business Insurance</a></li>
-                       <li><a href="download.html">Condo Insurance</a></li>
+                        @foreach ($insurances as $insurance)
+                        <li><a href="/our-insurance/{{$insurance->url}}">{{$insurance->name}}</a></li>
+                        @endforeach
                     </ul>
                 </div>
             </div>

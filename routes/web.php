@@ -1,7 +1,10 @@
 <?php
 
+use App\Http\Controllers\ContactUsController;
 use App\Http\Controllers\InsuranceController;
+use App\Http\Controllers\QuoteController;
 use Illuminate\Support\Facades\Route;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -33,3 +36,6 @@ Route::get('/our-insurance/{url}', [InsuranceController::class, 'show']);
 Route::get('/our-insurance', function(){
     return view('our-insurance');
 });
+
+Route::post('/contact-us', [ContactUsController::class , 'save_email']);
+Route::post('/submit-quote', [QuoteController::class, 'save']);

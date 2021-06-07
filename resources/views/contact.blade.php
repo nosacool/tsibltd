@@ -120,13 +120,15 @@
         </div>
     </section>
     <section id="FORM" aria-label="section">
+        @include('partials.flash_message')
         <div class="container">
                 <div class="row">
 
                     <div class="col-lg-8 mb-sm-30">
                     <h3>Do you have any question?</h3>
 
-                    <form name="contactForm" id="contact_form" class="form-border" method="post" action="email.php">
+                    <form name="contactForm" id="contact_form" class="form-border" method="post" action="#">
+                        @csrf
                         <div class="field-set">
                             <input type="text" name="name" id="name" class="form-control" placeholder="Your Name" />
                         </div>
@@ -146,9 +148,14 @@
                         <div class="spacer-half"></div>
 
                         <div id="submit">
-                            <input type="submit" id="send_message" value="Submit Form" class="btn btn-custom" />
+                            <input type="submit" value="Submit Form" class="btn btn-custom" />
                         </div>
-                        <div id="mail_success" class="success">Your message has been sent successfully.</div>
+                        @isset($message)
+                        <div class="success">{{$message}}.</div>
+                        @endisset
+
+
+
                         <div id="mail_fail" class="error">Sorry, error occured this time sending your message.</div>
                     </form>
                 </div>
@@ -156,7 +163,7 @@
                 <div class="col-lg-4">
 
                     <div class="padding40 box-rounded mb30" data-bgcolor="#F2F6FE">
-                        <h3>US Office</h3>
+                        <h3>Abuja Office</h3>
                         <address class="s1">
                             <span><i class="id-color fa fa-map-marker fa-lg"></i>08 W 36th St, New York, NY 10001</span>
                             <span><i class="id-color fa fa-phone fa-lg"></i>+1 333 9296</span>
@@ -166,15 +173,7 @@
                     </div>
 
 
-                    <div class="padding40 bg-color text-light box-rounded">
-                        <h3>AU Office</h3>
-                        <address class="s1">
-                            <span><i class="fa fa-map-marker fa-lg"></i>100 Mainstreet Center, Sydney</span>
-                            <span><i class="fa fa-phone fa-lg"></i>+61 333 9296</span>
-                            <span><i class="fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">contact@example.com</a></span>
-                            <span><i class="fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span>
-                        </address>
-                    </div>
+
 
                 </div>
 
