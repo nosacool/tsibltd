@@ -67,11 +67,11 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-md-8 mb-sm-30">
-                            <h3 class="no-bottom">Up to 70% off for new member. Limited offer.</h3>
+                            <h3 class="no-bottom">Download the TSIB Mobile App For Easy Access to All our Services.</h3>
                         </div>
 
                         <div class="col-md-4 text-right">
-                            <a href="#" class="btn-custom" data-toggle="modal" data-target="#staticBackdrop">Get a Quote</a>
+                            <a href="#App" class="btn-custom" >Get Mobile App</a>
                         </div>
                     </div>
                 </div>
@@ -146,7 +146,7 @@
                     </div>
                 </section>
 
-                <section data-bgcolor="#F2F6FE">
+                <section id="App" data-bgcolor="#F2F6FE">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-5 offset-lg-7">
@@ -259,55 +259,7 @@
                     </div>
                 </section>
 
-                <section class="no-padding text-light bg-color">
-                    <div class="container-fluid">
-                        <div class="row no-gutters">
-                            <div class="col-lg-3 col-md-6">
-                                <div class="feature-box f-boxed style-3" data-bgcolor="rgba(0,0,0,.4)">
-                                    <a href="#"><i class="bg-color-secondary i-boxed fa fa-comments"></i></a>
-                                    <div class="text">
-                                        <a href="#"><h4>Free Consultation</h4></a>
-                                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                    </div>
-                                    <i class="wm fa fa-comments"></i>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-md-6">
-                                <div class="feature-box f-boxed style-3" data-bgcolor="rgba(0,0,0,.3)">
-                                    <a href="#"><i class="bg-color-secondary i-boxed fa fa-address-card"></i></a>
-                                    <div class="text">
-                                        <a href="#"><h4>Find an Agent</h4></a>
-                                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                    </div>
-                                    <i class="wm fa fa-address-card"></i>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-md-6">
-                                <div class="feature-box f-boxed style-3" data-bgcolor="rgba(0,0,0,.2)">
-                                    <a href="#"><i class="bg-color-secondary i-boxed fa fa-file-text"></i></a>
-                                    <div class="text">
-                                        <a href="#"><h4>Get a Quote</h4></a>
-                                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                    </div>
-                                    <i class="wm fa fa-file-text"></i>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-md-6">
-                                <div class="feature-box f-boxed style-3" data-bgcolor="rgba(0,0,0,.1)">
-                                    <a href="#"><i class="bg-color-secondary i-boxed fa fa-comments"></i></a>
-                                    <div class="text">
-                                        <a href="#"><h4>Free Consultation</h4></a>
-                                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                    </div>
-                                    <i class="wm fa fa-comments"></i>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
+                <x-consult-quote-snippet></x-consult-quote-snippet>
 
                  <section id="section-testimonial">
                     <div class="container">
@@ -405,7 +357,7 @@
                     </div>
                 </section>
 
-                <section id="section-steps" data-bgcolor="#c0c5d0">
+                <section id="section-steps" data-bgcolor="#ffffff">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-12">
@@ -413,6 +365,16 @@
                                     <span class="p-title bg-color text-light">Steps</span><br>
                                     <h2>How Insurance Works</h2>
                                     <div class="small-border"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 wow fadeInRight" data-wow-delay=".4s" >
+                                <div class="feature-box style-4 text-center">
+                                    <a href="#"><i class="bg-color text-light i-boxed fa fa-check"></i></a>
+                                    <div class="text">
+                                        <a href="#"><h4>Compare and Choose a Plan</h4></a>
+                                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
+                                    </div>
+                                    <span class="wm">2</span>
                                 </div>
                             </div>
 
@@ -428,16 +390,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-4 wow fadeInRight" data-wow-delay=".4s" >
-                                <div class="feature-box style-4 text-center">
-                                    <a href="#"><i class="bg-color text-light i-boxed fa fa-check"></i></a>
-                                    <div class="text">
-                                        <a href="#"><h4>Compare and Choose a Plan</h4></a>
-                                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                    </div>
-                                    <span class="wm">2</span>
-                                </div>
-                            </div>
+
 
                             <div class="col-md-4 wow fadeInRight" data-wow-delay=".6s" >
                                 <div class="feature-box style-4 text-center">

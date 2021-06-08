@@ -22,7 +22,7 @@
     <!-- section close -->
 
     <section id="section-about-us-2" class="no-padding" data-bgcolor="#F2F6FE">
-        <div class="image-container col-md-6 pull-left" data-bgimage="url({{asset('images')}}/{{$insurance[0]->left_big_image}}) center"></div>
+        <div class="image-container col-md-6 pull-left" data-bgimage="url({{asset('images/slider/')}}/{{$insurance[0]->left_big_image}}) center"></div>
 
         <div class="container">
             <div class="row">
@@ -66,7 +66,7 @@
     </section>
 
     <section id="section-about-us-2" class="no-padding" data-bgcolor="#F2F6FE">
-        <div class="image-container col-md-6 pos-right" data-bgimage="url({{asset('images')}}/{{$insurance[0]->right_big_image}}) center"></div>
+        <div class="image-container col-md-6 pos-right" data-bgimage="url({{asset('images/slider')}}/{{$insurance[0]->right_big_image}}) center"></div>
 
         <div class="container">
             <div class="row">
