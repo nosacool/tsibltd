@@ -176,13 +176,13 @@
 
 
                                 <!-- App Store button -->
-                                <a href="https://app.tsibltd.com" target="_blank" class="col-md-6 market-btn apple-btn" role="button">
+                                <a href="https://app.tsibltd.com" target="_blank" class=" market-btn apple-btn" role="button" style="margin-right: 10px">
                                   <span class="market-button-subtitle">Download on the</span>
                                   <span class="market-button-title">App Store</span>
                                 </a>
 
                                 <!-- Google Play button -->
-                                <a href="https://play.google.com/store/apps/details?id=com.tsibltd.app.twa" target="_blank" class="col-md-6 market-btn google-btn" role="button">
+                                <a href="https://play.google.com/store/apps/details?id=com.tsibltd.app.twa" target="_blank" class=" market-btn google-btn" role="button">
                                   <span class="market-button-subtitle">Download on the</span>
                                   <span class="market-button-title">Google Play</span>
                                 </a>
