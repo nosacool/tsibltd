@@ -172,17 +172,17 @@
                               <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab"><p>The TSIB Mobile App allows enables you apply for claims with no stress. The app also allows you track your claims process and updates you every step of the way. </p></div>
                               <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab"><p>In TSIB, We value our clients, so we ensure that we are always available to assist in any way to ensure swift services. Our app has a unique Live chat support allowing you connect with our trained customer support representatives.</p></div>
                             </div>
-                            <div class="container" style="background-size: cover;">
+                            <div class="container row" style="background-size: cover;">
 
 
                                 <!-- App Store button -->
-                                <a href="https://app.tsibltd.com" target="_blank" class="market-btn apple-btn" role="button">
+                                <a href="https://app.tsibltd.com" target="_blank" class="col-md-6 market-btn apple-btn" role="button">
                                   <span class="market-button-subtitle">Download on the</span>
                                   <span class="market-button-title">App Store</span>
                                 </a>
 
                                 <!-- Google Play button -->
-                                <a href="https://play.google.com/store/apps/details?id=com.tsibltd.app.twa" target="_blank" class="market-btn google-btn" role="button">
+                                <a href="https://play.google.com/store/apps/details?id=com.tsibltd.app.twa" target="_blank" class="col-md-6 market-btn google-btn" role="button">
                                   <span class="market-button-subtitle">Download on the</span>
                                   <span class="market-button-title">Google Play</span>
                                 </a>
