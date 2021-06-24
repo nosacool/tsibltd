@@ -46,7 +46,7 @@
                         </ul>
                     </div>
                     <div class="de-flex-col">
-                        <div class="h-phone"><span>Need&nbsp;Help?</span><i class="fa fa-phone id-color-secondary"></i> 1 200 300 9000</div>
+                        <div class="h-phone"><span>Need&nbsp;Help?</span><i class="fa fa-phone id-color-secondary"></i> +234 906 063 7132</div>
                         <span id="menu-btn"></span>
                     </div>
                 </div>

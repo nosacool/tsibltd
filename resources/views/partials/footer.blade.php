@@ -13,7 +13,7 @@
                         Call Us Now
                     </span>
                     <span class="pnb-num">
-                        1 200 333 800
+                        0906 063 7132
                     </span>
                 </div>
                 <a href="#" class="btn-custom invert med">Contact Us</a>
@@ -26,7 +26,7 @@
     <div class="container">
         <div class="row">
 
-            <div class="col-lg-3">
+            <div class="col-lg-4">
                 <div class="widget">
                     <h5>Our Company</h5>
                     <ul>
@@ -37,7 +37,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-3">
+            <div class="col-lg-4">
                 <div class="widget">
                     <h5>Insurance</h5>
                     <ul>
@@ -48,34 +48,20 @@
                 </div>
             </div>
 
-            <div class="col-lg-3">
+            <div class="col-lg-4">
                 <div class="widget">
                     <h5>Get In Touch</h5>
                     We're here to listen:
                     <address class="s1">
                         <span><i class="fa fa-map-marker fa-lg"></i>08 W 36th St, New York, NY 10001</span>
-                        <span><i class="fa fa-phone fa-lg"></i>+1 200 300 9000</span>
-                        <span><i class="fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">contact@example.com</a></span>
+                        <span><i class="fa fa-phone fa-lg"></i>+234 906 063 7132</span>
+                        <span><i class="fa fa-envelope-o fa-lg"></i><a href="mailto: info@totalsecurityinsurancebrokers.com">info@totalsecurityinsurancebrokers.com</a></span>
                         <span><i class="fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span>
                     </address>
                 </div>
             </div>
 
-            <div class="col-lg-3">
-                <div class="widget">
-                    <h5>Newsletter</h5>
 
-                    <p>Signup for our newsletter to get the latest news, updates and special offers in your inbox.</p>
-                    <form action="blank.php" class="row" id="form_subscribe" method="post" name="form_subscribe">
-                        <div class="col text-center">
-                            <input class="form-control" id="name_1" name="name_1" placeholder="enter your email" type="text" /> <a href="#" id="btn-submit"><i class="arrow_right bg-color-secondary"></i></a>
-                            <div class="clearfix"></div>
-                        </div>
-                    </form>
-                    <div class="spacer-10"></div>
-                    <small>Your email is safe with us. We don't spam.</small>
-                </div>
-            </div>
         </div>
     </div>
 
@@ -85,7 +71,7 @@
                 <div class="col-md-12">
                     <div class="de-flex">
                         <div class="de-flex-col">
-                            &copy; Copyright 2021 - Priva by Designesia
+                            &copy; Copyright {{date('Y')}} - Total Security Insurance Brokers Limited
                         </div>
 
                         <div class="de-flex-col">

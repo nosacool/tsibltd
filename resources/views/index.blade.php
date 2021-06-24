@@ -88,8 +88,8 @@
                                 <div class="small-border sm-left"></div>
                             </div>
                             <div class="col-md-6">
-                                <p>Consequat occaecat ullamco amet non eiusmod nostrud dolore irure incididunt est duis anim sunt officia. Fugiat velit proident aliquip nisi incididunt nostrud exercitation proident est nisi. Irure magna elit commodo anim ex veniam culpa eiusmod id nostrud sit cupidatat in veniam ad. Eiusmod consequat eu adipisicing minim anim aliquip cupidatat culpa excepteur quis. Occaecat sit eu exercitation irure Lorem incididunt nostrud.
-                                </p>
+                                <p>Purchasing Insurance is a major investment and life decision. It&rsquo;s one that requires a great deal of consideration, patience and research.</p>
+<p>Insurance is an irreplaceable part of a sound financial plan which helps in securing your family&rsquo;s financial future in case of an unfortunate event like an untimely death, health issue and damage of properties.</p>
                             </div>
                         </div>
 
@@ -108,7 +108,7 @@
                                             <h3><i class="icofont-people"></i><span>Group Life Insurance</span></h3>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                             <div class="spacer20"></div>
-                                            <a href="insurance-details-1.html" class="btn-custom invert">Read more</a>
+                                            <a href="our-insurance/group-life-insurance" class="btn-custom invert">Read more</a>
                                         </div>
                                     </div>
                                     <img src="images/services/1.jpg" alt="" class="img-responsive" />
@@ -122,7 +122,7 @@
                                             <h3><i class="icofont-home"></i><span>Asset Insurance</span></h3>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                             <div class="spacer20"></div>
-                                            <a href="insurance-details-2.html" class="btn-custom invert">Read more</a>
+                                            <a href="our-insurance/asset-insurance" class="btn-custom invert">Read more</a>
                                         </div>
                                     </div>
                                     <img src="images/services/2.jpg" alt="" class="img-responsive" />
@@ -136,7 +136,7 @@
                                             <h3><i class="icofont-car-alt-1"></i><span>Auto Insurance</span></h3>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                             <div class="spacer20"></div>
-                                            <a href="insurance-details-3.html" class="btn-custom invert">Read more</a>
+                                            <a href="our-insurance/motor-insurance" class="btn-custom invert">Read more</a>
                                         </div>
                                     </div>
                                     <img src="images/services/3.jpg" alt="" class="img-responsive" />
