@@ -26,7 +26,7 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <span class="p-title invert text-white">Frequently</span><br>
-                    <h2>Asked Qustions</h2>
+                    <h2>Asked Questions</h2>
                     <div class="small-border"></div>
                 </div>
 
