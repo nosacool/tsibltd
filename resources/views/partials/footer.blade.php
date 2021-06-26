@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 wow fadeInRight" data-wow-delay=".2s">
-                <h2>Call us for further information. Total Security Insurance Brokers customer care is here to help you anytime.</h2>
+                <h2>Call us for further information. TSIB customer care is here to help you anytime.</h2>
                 <p class="lead id-color-secondary">We're available for 24 hours!</p>
             </div>
 
@@ -53,10 +53,10 @@
                     <h5>Get In Touch</h5>
                     We're here to listen:
                     <address class="s1">
-                        <span><i class="fa fa-map-marker fa-lg"></i>08 W 36th St, New York, NY 10001</span>
+                        <span><i class="fa fa-map-marker fa-lg"></i><a target="_blank" href='https://goo.gl/maps/3dpiwkRqwoVRvveW8'>No 31 wushishi crescent, Utako, Abuja, Nigeria.</a></span>
                         <span><i class="fa fa-phone fa-lg"></i>+234 906 063 7132</span>
                         <span><i class="fa fa-envelope-o fa-lg"></i><a href="mailto: info@totalsecurityinsurancebrokers.com">info@totalsecurityinsurancebrokers.com</a></span>
-                        <span><i class="fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span>
+                       <!-- <span><i class="fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span> -->
                     </address>
                 </div>
             </div>

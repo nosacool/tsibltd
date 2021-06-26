@@ -5,89 +5,23 @@
     <div id="top"></div>
 
     <!-- section begin -->
-    <section id="subheader" class="text-light" data-bgimage="url(images/background/subheader.jpg) top">
-            <div class="center-y relative text-center">
-                <div class="container">
-                    <div class="row">
-                        <div class="col text-center">
-                            <div class="spacer-single"></div>
-                            <h1>Why Choose Us</h1>
-                            <p>You &amp; your family covered.</p>
-                        </div>
-                        <div class="clearfix"></div>
+    <section id="subheader">
+        <div class="center-y relative text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col text-center">
+                        <div class="spacer-single"></div>
+                        <h1>Why Choose Us</h1>
+
                     </div>
+                    <div class="clearfix"></div>
                 </div>
             </div>
-    </section>
+        </div>
+</section>
     <!-- section close -->
 
-    <section>
-        <div class="container">
-            <div class="row">
 
-                <div class="col-lg-4 col-md-6 mb30">
-                    <div class="f-box f-border f-icon-left f-icon-rounded">
-                        <i class="icofont-checked bg-color-secondary"></i>
-                        <div class="fb-text">
-                            <h4>Trustworthy Company</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 mb30">
-                    <div class="f-box f-border f-icon-left f-icon-rounded">
-                        <i class="icofont-checked bg-color-secondary"></i>
-                        <div class="fb-text">
-                            <h4>Income Protection</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 mb30">
-                    <div class="f-box f-border f-icon-left f-icon-rounded">
-                        <i class="icofont-checked bg-color-secondary"></i>
-                        <div class="fb-text">
-                            <h4>Anytime Cancellation</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 mb30">
-                    <div class="f-box f-border f-icon-left f-icon-rounded">
-                        <i class="icofont-checked bg-color-secondary"></i>
-                        <div class="fb-text">
-                            <h4>More 100+ Countries</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 mb30">
-                    <div class="f-box f-border f-icon-left f-icon-rounded">
-                        <i class="icofont-checked bg-color-secondary"></i>
-                        <div class="fb-text">
-                            <h4>Easy to Claim</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 mb30">
-                    <div class="f-box f-border f-icon-left f-icon-rounded">
-                        <i class="icofont-checked bg-color-secondary"></i>
-                        <div class="fb-text">
-                            <h4>Money Back Guarantee</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                        </div>
-                    </div>
-                </div>
-
-            <div>
-        </div>
-    </section>
 
     <section aria-label="section" data-bgimage="url(images/background/7.jpg) top">
         <div class="container">
@@ -97,62 +31,31 @@
                 <div class="col-md-5">
                     <span class="p-title invert">Why Choose Us</span><br>
                     <h2>Trushworthy Company</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p> At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</p>
+                    <div style="box-sizing: border-box; margin-bottom: 35px; color: rgb(101, 101, 101); font-family: Poppins; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                        <div style="box-sizing: border-box; margin-bottom: 0px;">
+                            <p align="center" style="box-sizing: border-box; margin: 0px 0px 20px; text-align: left;"><span style='box-sizing: border-box; margin-bottom: 0px; font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; color: rgb(51, 51, 51);'>Total Security Insurance Brokers Ltd (TSIB) was incorporated by the Corporate Affairs Commission (CAC) in 1999 under the Company and allied Matters Act of 1990.</span></p>
+                            <p align="center" style="box-sizing: border-box; margin: 0px; text-align: left;"><span style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;"><span style="box-sizing: border-box; margin-bottom: 0px; color: rgb(51, 51, 51);">Its nature of business is to provide insurance brokerage and consulting services to the general public. TSIB is duly registered under the regulatory body, National Insurance Commission (NAICOM). It is a member of the NCRIB and the company has its minimum required capital share of N5,000,000 and registered for N10,000,000.</span></span></p>
+                        </div>
+                    </div>
+                    <div class="wpb_text_column wpb_content_element " style="box-sizing: border-box; margin-bottom: 35px; color: rgb(101, 101, 101); font-family: Poppins; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;  text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                        <div class="wpb_wrapper" style="box-sizing: border-box; margin-bottom: 0px;">
+                            <ul style="box-sizing: border-box; margin: 0px 0px 0px 25px; padding: 0px; list-style: disc;">
+                                <li style="box-sizing: border-box;"><span style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;">We can achieve savings for you the Insured through insurance audit and help you understand the technicalities of insurance which you may not know.</span></li>
+                                <li style="box-sizing: border-box;"><span style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;">We give relevant risk management advice, keep the client abreast of development in the industry, and arrange insurance cover at competitive rate for the client than the client can do for himself.</span></li>
+                                <li style="box-sizing: border-box;"><span style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;">We understand the market, know the best insurance companies to place certain risk with by virtue of their past and current performance, service delivery capabilities, prompt claims payment &amp; financial strength.</span></li>
+                                <li style="box-sizing: border-box;"><span style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;">We understand insurance policies, which contains numerous conditions and clauses. These conditions and clauses are technical and require the services of a broker not only to explain them to the insured but also to ensure that they are favorable to the client.</span></li>
+                                <li style="box-sizing: border-box;"><span style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;">We add value in carrying out audit of our client&rsquo;s insurance policies portfolio, making relevant recommendations and giving necessary risk management advice.</span></li>
+                                <li style="box-sizing: border-box; margin-bottom: 0px;"><span style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;">Our services at TSIB are free with no extra cost to you, the Insured.</span></li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
 
         </div>
     </section>
 
-
-    <section id="section-fun-facts" class="pt60 pb60">
-        <div class="container">
-            <div class="row text-center">
-                        <div class="col-lg-2 col-md-3 wow fadeInUp mb-sm-30" data-wow-delay="0s">
-                            <div class="de_count">
-                                <h3><span class="timer" data-to="4500" data-speed="3000">0</span></h3>
-                                <h5 class="id-color">Home Protected</h5>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-2 col-md-3 wow fadeInUp mb-sm-30" data-wow-delay=".25s">
-                            <div class="de_count">
-                                <h3><span class="timer" data-to="16" data-speed="3000">0</span>k</h3>
-                                <h5 class="id-color">People Saved</h5>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-2 col-md-3 wow fadeInUp mb-sm-30" data-wow-delay=".4s">
-                            <div class="de_count">
-                                <h3><span class="timer" data-to="4" data-speed="3000">0</span>m</h3>
-                                <h5 class="id-color">Money Saved</h5>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-2 col-md-3 wow fadeInUp mb-sm-30" data-wow-delay=".6s">
-                            <div class="de_count">
-                                <h3><span class="timer" data-to="52" data-speed="3000">0</span>k</h3>
-                                <h5 class="id-color">Contract Signed</h5>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-2 col-md-3 wow fadeInUp mb-sm-30" data-wow-delay=".8s">
-                            <div class="de_count">
-                                <h3><span class="timer" data-to="100" data-speed="3000">0</span>+</h3>
-                                <h5 class="id-color">Countries</h5>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-2 col-md-3 wow fadeInUp mb-sm-30" data-wow-delay="1s">
-                            <div class="de_count">
-                                <h3><span class="timer" data-to="2" data-speed="3000">2</span>k</h3>
-                                <h5 class="id-color">Staff Member</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-        </section>
-
+    <x-achievements></x-achievements>
 
 
 </div>

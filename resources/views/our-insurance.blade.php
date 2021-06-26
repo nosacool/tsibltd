@@ -12,7 +12,7 @@
                         <div class="col text-center">
                             <div class="spacer-single"></div>
                             <h1>{{$insurance[0]->name}}</h1>
-                            <p>{{$insurance[0]->intro}}</p>
+
                         </div>
                         <div class="clearfix"></div>
                     </div>

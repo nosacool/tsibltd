@@ -36,4 +36,8 @@
     <link rel="stylesheet" href="{{asset('revolution/css/settings.css')}}" type="text/css">
     <link rel="stylesheet" href="{{asset('revolution/css/layers.css')}}" type="text/css">
     <link rel="stylesheet" href="{{asset('revolution/css/navigation.css')}}" type="text/css">
-
+    <style>
+        p{
+            text-align: justify !important;
+        }
+    </style>

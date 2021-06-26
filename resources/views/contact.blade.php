@@ -5,20 +5,20 @@
     <div id="top"></div>
 
     <!-- section begin -->
-    <section id="subheader" class="text-light" data-bgimage="url(images/background/subheader4.jpg) top">
-            <div class="center-y relative text-center">
-                <div class="container">
-                    <div class="row">
+    <section id="subheader">
+        <div class="center-y relative text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col text-center">
+                        <div class="spacer-single"></div>
+                        <h1>Contact Us</h1>
 
-                        <div class="col-md-12 text-center">
-                            <h1>Contact Us</h1>
-                            <p>Anim pariatur cliche reprehenderit</p>
-                        </div>
-                        <div class="clearfix"></div>
                     </div>
+                    <div class="clearfix"></div>
                 </div>
             </div>
-    </section>
+        </div>
+</section>
     <!-- section close -->
 
     <section id="FAQ" aria-label="section">
@@ -37,11 +37,11 @@
                         <!-- Accordion item 1 -->
                         <div class="card">
                             <div id="heading-a1" class="card-header bg-white shadow-sm border-0">
-                                <h6 class="mb-0"><a href="#" data-toggle="collapse" data-target="#collapse-a1" aria-expanded="false" aria-controls="collapse-a1" class="d-block position-relative text-dark collapsible-link py-2">When is time to update my coverage?</a></h6>
+                                <h6 class="mb-0"><a href="#" data-toggle="collapse" data-target="#collapse-a1" aria-expanded="false" aria-controls="collapse-a1" class="d-block position-relative text-dark collapsible-link py-2">When is time to renew my policy</a></h6>
                             </div>
                             <div id="collapse-a1" aria-labelledby="heading-a1" data-parent="#accordion-1" class="collapse">
                                 <div class="card-body p-4">
-                                    <p class="m-0">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
+                                    <p class="m-0">You can renew your policy any time before its expiry date.</p>
                                 </div>
                             </div>
                         </div>
@@ -53,7 +53,7 @@
                             </div>
                             <div id="collapse-a2" aria-labelledby="heading-a2" data-parent="#accordion-1" class="collapse">
                                 <div class="card-body p-4">
-                                    <p class="m-0">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
+                                    <p class="m-0">It is advisable to renew your policy yearly as it secures you against unforseen circumstances.</p>
                                 </div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                             </div>
                             <div id="collapse-a3" aria-labelledby="heading-a3" data-parent="#accordion-1" class="collapse">
                                 <div class="card-body p-4">
-                                    <p class="m-0">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
+                                    <p class="m-0">Failure to renew your policy might result to not being covered under the said policy and you are prone to bear 100% fees incase of unforseen circumstances.</p>
                                 </div>
                             </div>
                         </div>
@@ -81,11 +81,11 @@
                         <!-- Accordion item 1 -->
                         <div class="card">
                             <div id="heading-b1" class="card-header bg-white shadow-sm border-0">
-                                <h6 class="mb-0"><a href="#" data-toggle="collapse" data-target="#collapse-b1" aria-expanded="false" aria-controls="collapse-b1" class="d-block position-relative text-dark collapsible-link py-2">How much life insurance do i need?</a></h6>
+                                <h6 class="mb-0"><a href="#" data-toggle="collapse" data-target="#collapse-b1" aria-expanded="false" aria-controls="collapse-b1" class="d-block position-relative text-dark collapsible-link py-2">What does the comprehensive car insurance cover?</a></h6>
                             </div>
                             <div id="collapse-b1" aria-labelledby="heading-b1" data-parent="#accordion-2" class="collapse">
                                 <div class="card-body p-4">
-                                    <p class="m-0">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
+                                    <p class="m-0">Comprehensive Motor Insurance covers you , your car and the third party during any incident of damage/fire/theft .</p>
                                 </div>
                             </div>
                         </div>
@@ -97,7 +97,7 @@
                             </div>
                             <div id="collapse-b2" aria-labelledby="heading-b2" data-parent="#accordion-2" class="collapse">
                                 <div class="card-body p-4">
-                                    <p class="m-0">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
+                                    <p class="m-0">Total Security Insurance Brokers Ltd is a dynamic insurance service provider, with a technical crew that is driving insurance brokerage to new heights by creating new and improved services to its customers.</p>
                                 </div>
                             </div>
                         </div>
@@ -109,7 +109,7 @@
                             </div>
                             <div id="collapse-b3" aria-labelledby="heading-b3" data-parent="#accordion-2" class="collapse">
                                 <div class="card-body p-4">
-                                    <p class="m-0">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
+                                    <p class="m-0">Every Individual needs a life insurance policy, as it serves as a safety net. A good way of showing your loved ones you care is by obtaining a Group life insurance.</p>
                                 </div>
                             </div>
                         </div>
@@ -165,12 +165,13 @@
                     <div class="padding40 box-rounded mb30" data-bgcolor="#F2F6FE">
                         <h3>Abuja Office</h3>
                         <address class="s1">
-                            <span><i class="id-color fa fa-map-marker fa-lg"></i>08 W 36th St, New York, NY 10001</span>
-                            <span><i class="id-color fa fa-phone fa-lg"></i>+1 333 9296</span>
-                            <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">contact@example.com</a></span>
-                            <span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span>
+                            <span><i class="id-color fa fa-map-marker fa-lg"></i><a target="_blank" href="https://goo.gl/maps/3dpiwkRqwoVRvveW8">No 31 wushishi crescent, Utako, Abuja, Nigeria</a></span>
+                            <span><i class="id-color fa fa-phone fa-lg"></i>+234 906 063 7132</span>
+                            <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">info@totalsecurityinsurancebrokers.com</a></span>
+                        <!--    <span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span> -->
                         </address>
                     </div>
+
 
 
 

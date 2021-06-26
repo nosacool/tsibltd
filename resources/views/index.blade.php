@@ -106,12 +106,12 @@
                                     <div class="cover rounded">
                                         <div class="c-inner">
                                             <h3><i class="icofont-people"></i><span>Group Life Insurance</span></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <p>This statutory insurance policy is mandatory for all employers with five or more employees to maintain a Life Assurance policy.</p>
                                             <div class="spacer20"></div>
                                             <a href="our-insurance/group-life-insurance" class="btn-custom invert">Read more</a>
                                         </div>
                                     </div>
-                                    <img src="images/services/1.jpg" alt="" class="img-responsive" />
+                                    <img src="images/services/family.jpg" alt="" class="img-responsive" />
                                 </div>
                             </div>
 
@@ -120,7 +120,7 @@
                                     <div class="cover rounded">
                                         <div class="c-inner">
                                             <h3><i class="icofont-home"></i><span>Asset Insurance</span></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <p>This policy covers loss or damage caused by fire and the special perils named in the policy to the property of the insured.</p>
                                             <div class="spacer20"></div>
                                             <a href="our-insurance/asset-insurance" class="btn-custom invert">Read more</a>
                                         </div>
@@ -134,7 +134,7 @@
                                     <div class="cover rounded">
                                         <div class="c-inner">
                                             <h3><i class="icofont-car-alt-1"></i><span>Auto Insurance</span></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <p>Motor Insurance covers damage on vehicle, as well as medical expenses incurred as a direct result of an accident to the car.</p>
                                             <div class="spacer20"></div>
                                             <a href="our-insurance/motor-insurance" class="btn-custom invert">Read more</a>
                                         </div>
@@ -198,164 +198,11 @@
                     <div class="image-container col-md-6 pull-right" data-bgimage="url({{asset('images/app_mockup.jpg')}}) center"></div>
                 </section>
 
-                <section id="section-fun-facts" class="pt60 pb60">
-                    <div class="container">
-                        <div class="row align-items-center">
-                            <div class="col-md-3">
-                                <span class="p-title invert">Fun facts</span><br>
-                                <h2>
-                                    What we did?
-                                </h2>
-                                <div class="small-border sm-left"></div>
-                                <p>Consequat occaecat ullamco amet non eiusmod nostrud dolore irure incididunt est duis anim sunt.</p>
-                            </div>
 
-                            <div class="col-md-8 offset-md-1">
-                                <div class="row">
-                                    <div class="col-lg-4 col-md-6 wow fadeInRight mb30" data-wow-delay="0s">
-                                        <div class="de_count">
-                                            <h3><span class="timer" data-to="4500" data-speed="3000">0</span></h3>
-                                            <h5 class="id-color">Home Protected</h5>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-4 col-md-6 wow fadeInRight mb30" data-wow-delay=".25s">
-                                        <div class="de_count">
-                                            <h3><span class="timer" data-to="16" data-speed="3000">0</span>k</h3>
-                                            <h5 class="id-color">People Saved</h5>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-4 col-md-6 wow fadeInRight mb30" data-wow-delay=".4s">
-                                        <div class="de_count">
-                                            <h3><span class="timer" data-to="4" data-speed="3000">0</span>m</h3>
-                                            <h5 class="id-color">Money Saved</h5>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-4 col-md-6 wow fadeInRight mb30" data-wow-delay=".6s">
-                                        <div class="de_count">
-                                            <h3><span class="timer" data-to="52" data-speed="3000">0</span>k</h3>
-                                            <h5 class="id-color">Contract Signed</h5>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-4 col-md-6 wow fadeInRight mb30" data-wow-delay=".8s">
-                                        <div class="de_count">
-                                            <h3><span class="timer" data-to="100" data-speed="3000">0</span>+</h3>
-                                            <h5 class="id-color">Countries</h5>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-4 col-md-6 wow fadeInRight mb30" data-wow-delay="1s">
-                                        <div class="de_count">
-                                            <h3><span class="timer" data-to="2" data-speed="3000">2</span>k</h3>
-                                            <h5 class="id-color">Staff Member</h5>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
 
                 <x-consult-quote-snippet></x-consult-quote-snippet>
 
-                 <section id="section-testimonial">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <div class="text-center">
-                                    <span class="p-title invert">Latest</span><br>
-                                    <h2>Customer Reviews</h2>
-                                    <div class="small-border"></div>
-                                </div>
-                                <div class="owl-carousel owl-theme" id="testimonial-carousel">
-                                    <div class="item">
-                                        <div class="de_testi opt-2 review">
-                                            <blockquote>
-                                                <i class="fa fa-quote-left id-color-secondary"></i>
-                                                <h3>Trustworthy insurance</h3>
-                                                <p>Eiusmod consequat eu adipisicing minim anim aliquip cupidatat culpa excepteur quis. Occaecat sit eu exercitation irure Lorem incididunt nostrud.</p>
-                                                <div class="de_testi_by"><span><img src="images/people/1.jpg" alt=""></span><span class="text-dark">John, Pixar Studio</span></div>
-                                            </blockquote>
-                                        </div>
-                                    </div>
-                                    <div class="item">
-                                        <div class="de_testi opt-2 review">
-                                            <blockquote>
-                                                <i class="fa fa-quote-left id-color-secondary"></i>
-                                                <h3>Quality insurance service</h3>
-                                                <p>Eiusmod consequat eu adipisicing minim anim aliquip cupidatat culpa excepteur quis. Occaecat sit eu exercitation irure Lorem incididunt nostrud.</p>
-                                                <div class="de_testi_by"><span><img src="images/people/2.jpg" alt=""></span><span class="text-dark">Sarah, Microsoft</span></div>
-                                            </blockquote>
-                                        </div>
-                                    </div>
-                                    <div class="item">
-                                        <div class="de_testi opt-2 review">
-                                            <blockquote>
-                                                <i class="fa fa-quote-left id-color-secondary"></i>
-                                                <h3>Top companies listed</h3>
-                                                <p>Eiusmod consequat eu adipisicing minim anim aliquip cupidatat culpa excepteur quis. Occaecat sit eu exercitation irure Lorem incididunt nostrud.</p>
-                                                <div class="de_testi_by"><span><img src="images/people/3.jpg" alt=""></span><span class="text-dark">Michael, Apple</span></div>
-                                            </blockquote>
-                                        </div>
-                                    </div>
-                                    <div class="item">
-                                        <div class="de_testi opt-2 review">
-                                            <blockquote>
-                                                <i class="fa fa-quote-left id-color-secondary"></i>
-                                                <h3>Great services</h3>
-                                                <p>Eiusmod consequat eu adipisicing minim anim aliquip cupidatat culpa excepteur quis. Occaecat sit eu exercitation irure Lorem incididunt nostrud.</p>
-                                                <div class="de_testi_by"><span><img src="images/people/4.jpg" alt=""></span><span class="text-dark">Thomas, Samsung</span></div>
-                                            </blockquote>
-                                        </div>
-                                    </div>
-                                    <div class="item">
-                                        <div class="de_testi opt-2 review">
-                                            <blockquote>
-                                                <i class="fa fa-quote-left id-color-secondary"></i>
-                                                <h3>Easy to claim</h3>
-                                                <p>Eiusmod consequat eu adipisicing minim anim aliquip cupidatat culpa excepteur quis. Occaecat sit eu exercitation irure Lorem incididunt nostrud.</p>
-                                                <div class="de_testi_by"><span><img src="images/people/5.jpg" alt=""></span><span class="text-dark">John, Pixar Studio</span></div>
-                                            </blockquote>
-                                        </div>
-                                    </div>
-                                    <div class="item">
-                                        <div class="de_testi opt-2 review">
-                                            <blockquote>
-                                                <i class="fa fa-quote-left id-color-secondary"></i>
-                                                <h3>Excellent support</h3>
-                                                <p>Eiusmod consequat eu adipisicing minim anim aliquip cupidatat culpa excepteur quis. Occaecat sit eu exercitation irure Lorem incididunt nostrud.</p>
-                                                <div class="de_testi_by"><span><img src="images/people/6.jpg" alt=""></span><span class="text-dark">Sarah, Microsoft</span></div>
-                                            </blockquote>
-                                        </div>
-                                    </div>
-                                    <div class="item">
-                                        <div class="de_testi opt-2 review">
-                                            <blockquote>
-                                                <i class="fa fa-quote-left id-color-secondary"></i>
-                                                <h3>Reliable insurance</h3>
-                                                <p>Eiusmod consequat eu adipisicing minim anim aliquip cupidatat culpa excepteur quis. Occaecat sit eu exercitation irure Lorem incididunt nostrud.</p>
-                                                <div class="de_testi_by"><span><img src="images/people/7.jpg" alt=""></span><span class="text-dark">Michael, Apple</span></div>
-                                            </blockquote>
-                                        </div>
-                                    </div>
-                                    <div class="item">
-                                        <div class="de_testi opt-2 review">
-                                            <blockquote>
-                                                <i class="fa fa-quote-left id-color-secondary"></i>
-                                                <h3>Five-star services</h3>
-                                                <p>Eiusmod consequat eu adipisicing minim anim aliquip cupidatat culpa excepteur quis. Occaecat sit eu exercitation irure Lorem incididunt nostrud.</p>
-                                                <div class="de_testi_by"><span><img src="images/people/8.jpg" alt=""></span><span class="text-dark">Thomas, Samsung</span></div>
-                                            </blockquote>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
+
 
                 <section id="section-steps" data-bgcolor="#ffffff">
                     <div class="container">
@@ -372,21 +219,27 @@
                                     <a href="#"><i class="bg-color text-light i-boxed fa fa-check"></i></a>
                                     <div class="text">
                                         <a href="#"><h4>Compare and Choose a Plan</h4></a>
-                                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
+                                        Go through and choose an adequate plan for yourself or family. We are also available for consultation.
                                     </div>
-                                    <span class="wm">2</span>
+                                    <span class="wm">1</span>
                                 </div>
                             </div>
 
                             <div class="col-md-4 wow fadeInRight" data-wow-delay=".2s" >
                                 <div class="feature-box style-4 text-center">
-                                    <a href="#"><i class="bg-color text-light i-boxed fa fa-pencil"></i></a>
+                                  <a href='#'><i class="bg-color text-light i-boxed fa fa-pencil"></i></a>
                                     <div class="text">
                                         <a href="#"><h4>Fill in Your Details</h4></a>
-                                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                        <a href="#" class="btn-custom" data-toggle="modal" data-target="#staticBackdrop">Get a Quote</a>
+                                        Fill in your details in the form below and we will get back to you in less than 24 hours.
+
                                     </div>
-                                    <span class="wm">1</span>
+                                    <span class="wm">2</span>
+                                </div>
+                                <div class="text-center">
+                                    <button class="btn-custom invert" data-toggle="modal" data-target="#staticBackdrop" style="
+                                    margin-top: 40px;
+                                    margin-bottom: 40px;
+                                ">Get a Quote</button>
                                 </div>
                             </div>
 
@@ -397,7 +250,7 @@
                                     <a href="#"><i class="bg-color text-light i-boxed fa fa-dollar"></i></a>
                                     <div class="text">
                                         <a href="#"><h4>Make Payment and Sit Back</h4></a>
-                                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
+                                        Proceed to make payment through our multiple channels and be rest-assured you are fully covered.
                                     </div>
                                     <span class="wm">3</span>
                                 </div>
