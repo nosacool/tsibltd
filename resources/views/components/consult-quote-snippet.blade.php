@@ -1,4 +1,4 @@
-<section data-bgcolor="#EEF1FA">
+<section >
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-6">
