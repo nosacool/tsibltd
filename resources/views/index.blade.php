@@ -123,7 +123,7 @@
                                     <div class="cover rounded">
                                         <div class="c-inner">
                                             <h3><i class="icofont-home"></i><span>Asset Insurance</span></h3>
-                                            <p>It offers you coverage and protection from all risks or perils that could damage your home or contents and personal property.</p>
+                                            <p>It offers you coverage and protection from all risks or perils.</p>
                                             <div class="spacer20"></div>
                                             <a href="our-insurance/asset-insurance" class="btn-custom invert">Read more</a>
                                         </div>
@@ -137,7 +137,7 @@
                                     <div class="cover rounded">
                                         <div class="c-inner">
                                             <h3><i class="icofont-car-alt-1"></i><span>Auto Insurance</span></h3>
-                                            <p>This covers your vehicles from potential risks financially, you are provided financial security against damages arising out of accidents and other threats. </p>
+                                            <p>This covers your vehicles from potential risks financially. </p>
                                             <div class="spacer20"></div>
                                             <a href="our-insurance/motor-insurance" class="btn-custom invert">Read more</a>
                                         </div>

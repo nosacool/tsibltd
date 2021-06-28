@@ -16,7 +16,7 @@
                         0906 063 7132
                     </span>
                 </div>
-                <a href="#" class="btn-custom invert med">Contact Us</a>
+                <a href="/contact-us" class="btn-custom invert med">Contact Us</a>
             </div>
         </div>
     </div>

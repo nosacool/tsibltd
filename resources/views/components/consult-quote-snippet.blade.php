@@ -7,7 +7,7 @@
                 <div class="text">
                     <h4>Free Consultation</h4>
                    Need Help deciding which policy suits you? Contact us for a free consultation.
-                    <br><button class="btn-custom invert" href="/contact-us">Contact Us</button>
+                    <br><a href='/contact-us'><button class="btn-custom invert" href="">Contact Us</button></a>
                 </div>
                 <i class="wm fa fa-comments"></i>
             </div>
