@@ -35,7 +35,7 @@
                         </h2>
                         <div class="small-border sm-left"></div>
 
-                       <p>{{$insurance[0]->right_info}}</p>
+                       <p>{!!$insurance[0]->right_info!!}</p>
                     </div>
                 </div>
             </div>
@@ -78,7 +78,7 @@
                         </h2>
                         <div class="small-border sm-left"></div>
 
-                       <p>{{$insurance[0]->left_info}}</p>
+                       <p>{!!$insurance[0]->left_info!!}</p>
                     </div>
                 </div>
             </div>
