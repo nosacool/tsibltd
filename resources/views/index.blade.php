@@ -109,7 +109,7 @@
                                     <div class="cover rounded">
                                         <div class="c-inner">
                                             <h3><i class="icofont-people"></i><span>Group Life Insurance</span></h3>
-                                            <p>This is a type of life insurance in which a single contract covers an entire group of people. Typically, the policy owner is an employer or an entity such as a labor organization, and the policy covers the employees or members of the group. </p>
+                                            <p>A single contract covers an entire group of people. Typically, if the policy owner is an employer, the policy covers the employees or members of the group. </p>
                                             <div class="spacer20"></div>
                                             <a href="our-insurance/group-life-insurance" class="btn-custom invert">Read more</a>
                                         </div>
@@ -123,12 +123,12 @@
                                     <div class="cover rounded">
                                         <div class="c-inner">
                                             <h3><i class="icofont-home"></i><span>Asset Insurance</span></h3>
-                                            <p>Asset/Property Insurance also known as “All Risk Policy” offers you coverage and protection from all risks or perils that could damage your home or contents and personal property.</p>
+                                            <p>It offers you coverage and protection from all risks or perils that could damage your home or contents and personal property.</p>
                                             <div class="spacer20"></div>
                                             <a href="our-insurance/asset-insurance" class="btn-custom invert">Read more</a>
                                         </div>
                                     </div>
-                                    <img src="images/services/2.jpg" alt="" class="img-responsive" />
+                                    <img style="height:258px" src="images/services/2.jpg" alt="" class="img-responsive" />
                                 </div>
                             </div>
 
@@ -137,12 +137,12 @@
                                     <div class="cover rounded">
                                         <div class="c-inner">
                                             <h3><i class="icofont-car-alt-1"></i><span>Auto Insurance</span></h3>
-                                            <p>This covers your vehicles from potential risks financially. Policyholder's car or two wheeler is provided financial security against damages arising out of accidents and other threats. </p>
+                                            <p>This covers your vehicles from potential risks financially, you are provided financial security against damages arising out of accidents and other threats. </p>
                                             <div class="spacer20"></div>
                                             <a href="our-insurance/motor-insurance" class="btn-custom invert">Read more</a>
                                         </div>
                                     </div>
-                                    <img src="images/services/3.jpg" alt="" class="img-responsive" />
+                                    <img style="height:258px" src="images/services/3.jpg" alt="" class="img-responsive" />
                                 </div>
                             </div>
                         </div>
