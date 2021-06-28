@@ -88,7 +88,10 @@
                                 <div class="small-border sm-left"></div>
                             </div>
                             <div class="col-md-6">
-                                <p>Purchasing Insurance is a major investment and life decision. It&rsquo;s one that requires a great deal of consideration, patience and research.</p>
+                                <p>Papa had it all planned way before his death struck us. Papa and Maa would often argue every year about his spending.
+                                    Maa would chide him, "Why do you spend so much money on all of these insurance premiums?"</p>
+                                    <p>
+                                    Papa would say, "It's an investment” When Papa Died, Insurance paid off. Our family was paid the Death Benefit/Sum Assured of Papa which led to a huge turn around for us and I looked at Mum and asked, "What if there was never an insurance"?</p> <p>Purchasing Insurance is a major investment and life decision. It&rsquo;s one that requires a great deal of consideration, patience and research.</p>
 <p>Insurance is an irreplaceable part of a sound financial plan which helps in securing your family&rsquo;s financial future in case of an unfortunate event like an untimely death, health issue and damage of properties.</p>
                             </div>
                         </div>
@@ -106,7 +109,7 @@
                                     <div class="cover rounded">
                                         <div class="c-inner">
                                             <h3><i class="icofont-people"></i><span>Group Life Insurance</span></h3>
-                                            <p>This statutory insurance policy is mandatory for all employers with five or more employees to maintain a Life Assurance policy.</p>
+                                            <p>This is a type of life insurance in which a single contract covers an entire group of people. Typically, the policy owner is an employer or an entity such as a labor organization, and the policy covers the employees or members of the group. </p>
                                             <div class="spacer20"></div>
                                             <a href="our-insurance/group-life-insurance" class="btn-custom invert">Read more</a>
                                         </div>
@@ -120,7 +123,7 @@
                                     <div class="cover rounded">
                                         <div class="c-inner">
                                             <h3><i class="icofont-home"></i><span>Asset Insurance</span></h3>
-                                            <p>This policy covers loss or damage caused by fire and the special perils named in the policy to the property of the insured.</p>
+                                            <p>Asset/Property Insurance also known as “All Risk Policy” offers you coverage and protection from all risks or perils that could damage your home or contents and personal property.</p>
                                             <div class="spacer20"></div>
                                             <a href="our-insurance/asset-insurance" class="btn-custom invert">Read more</a>
                                         </div>
@@ -134,7 +137,7 @@
                                     <div class="cover rounded">
                                         <div class="c-inner">
                                             <h3><i class="icofont-car-alt-1"></i><span>Auto Insurance</span></h3>
-                                            <p>Motor Insurance covers damage on vehicle, as well as medical expenses incurred as a direct result of an accident to the car.</p>
+                                            <p>This covers your vehicles from potential risks financially. Policyholder's car or two wheeler is provided financial security against damages arising out of accidents and other threats. </p>
                                             <div class="spacer20"></div>
                                             <a href="our-insurance/motor-insurance" class="btn-custom invert">Read more</a>
                                         </div>

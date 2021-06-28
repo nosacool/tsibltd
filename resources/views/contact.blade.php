@@ -36,24 +36,24 @@
 
                         <!-- Accordion item 1 -->
                         <div class="card">
-                            <div id="heading-a1" class="card-header bg-white shadow-sm border-0">
-                                <h6 class="mb-0"><a href="#" data-toggle="collapse" data-target="#collapse-a1" aria-expanded="false" aria-controls="collapse-a1" class="d-block position-relative text-dark collapsible-link py-2">When is time to renew my policy</a></h6>
+                            <div id="heading-b1" class="card-header bg-white shadow-sm border-0">
+                                <h6 class="mb-0"><a href="#" data-toggle="collapse" data-target="#collapse-b1" aria-expanded="false" aria-controls="collapse-b1" class="d-block position-relative text-dark collapsible-link py-2">Where and when is my personal property covered?</a></h6>
                             </div>
-                            <div id="collapse-a1" aria-labelledby="heading-a1" data-parent="#accordion-1" class="collapse">
+                            <div id="collapse-b1" aria-labelledby="heading-b1" data-parent="#accordion-2" class="collapse">
                                 <div class="card-body p-4">
-                                    <p class="m-0">You can renew your policy any time before its expiry date.</p>
+                                    <p class="m-0">Personal property (except property that is specifically excluded) is covered anywhere in the world. For example, suppose that while traveling, you purchased a dresser and you want to ship it home. Your homeowners’ policy would provide coverage for the named perils while the dresser is in transit – even though the dresser has never been in your home before.
+                                    </p>
                                 </div>
                             </div>
                         </div>
-
                         <!-- Accordion item 2 -->
                         <div class="card">
                             <div id="heading-a2" class="card-header bg-white shadow-sm border-0">
-                                <h6 class="mb-0"><a href="#" data-toggle="collapse" data-target="#collapse-a2" aria-expanded="false" aria-controls="collapse-a2" class="d-block position-relative collapsed text-dark collapsible-link py-2">How often should I review my life insurance needs?</a></h6>
+                                <h6 class="mb-0"><a href="#" data-toggle="collapse" data-target="#collapse-a2" aria-expanded="false" aria-controls="collapse-a2" class="d-block position-relative collapsed text-dark collapsible-link py-2">What are some practical things I can do to lower the cost of my homeowner’s insurance?</a></h6>
                             </div>
                             <div id="collapse-a2" aria-labelledby="heading-a2" data-parent="#accordion-1" class="collapse">
                                 <div class="card-body p-4">
-                                    <p class="m-0">It is advisable to renew your policy yearly as it secures you against unforseen circumstances.</p>
+                                    <p class="m-0">There are a number of things you can do to lower the cost of your homeowner’s insurance. The easiest thing to do is get a comprehensive review of your policy and needs from your broker.</p>
                                 </div>
                             </div>
                         </div>
@@ -61,11 +61,11 @@
                         <!-- Accordion item 3 -->
                         <div class="card">
                             <div id="heading-a3" class="card-header bg-white shadow-sm border-0">
-                                <h6 class="mb-0"><a href="#" data-toggle="collapse" data-target="#collapse-a3" aria-expanded="false" aria-controls="collapse-a3" class="d-block position-relative collapsed text-dark collapsible-link py-2">What happen to my insurance if I stop paying?</a></h6>
+                                <h6 class="mb-0"><a href="#" data-toggle="collapse" data-target="#collapse-a3" aria-expanded="false" aria-controls="collapse-a3" class="d-block position-relative collapsed text-dark collapsible-link py-2">What does homeowner’s insurance cover?</a></h6>
                             </div>
                             <div id="collapse-a3" aria-labelledby="heading-a3" data-parent="#accordion-1" class="collapse">
                                 <div class="card-body p-4">
-                                    <p class="m-0">Failure to renew your policy might result to not being covered under the said policy and you are prone to bear 100% fees incase of unforseen circumstances.</p>
+                                    <p class="m-0">The typical homeowner’s policy has two main sections: Section I covers the property of the insured and Section II provides personal liability coverage for the insured. Almost anyone who owns or leases property has a need for this type of insurance. </p>
                                 </div>
                             </div>
                         </div>
@@ -80,24 +80,36 @@
 
                         <!-- Accordion item 1 -->
                         <div class="card">
-                            <div id="heading-b1" class="card-header bg-white shadow-sm border-0">
-                                <h6 class="mb-0"><a href="#" data-toggle="collapse" data-target="#collapse-b1" aria-expanded="false" aria-controls="collapse-b1" class="d-block position-relative text-dark collapsible-link py-2">What does the comprehensive car insurance cover?</a></h6>
+                            <div id="heading-a1" class="card-header bg-white shadow-sm border-0">
+                                <h6 class="mb-0"><a href="#" data-toggle="collapse" data-target="#collapse-a1" aria-expanded="false" aria-controls="collapse-a1" class="d-block position-relative text-dark collapsible-link py-2">I have an older car whose current market value is very low – do I really need to purchase automobile insurance?</a></h6>
                             </div>
-                            <div id="collapse-b1" aria-labelledby="heading-b1" data-parent="#accordion-2" class="collapse">
+                            <div id="collapse-a1" aria-labelledby="heading-a1" data-parent="#accordion-1" class="collapse">
                                 <div class="card-body p-4">
-                                    <p class="m-0">Comprehensive Motor Insurance covers you , your car and the third party during any incident of damage/fire/theft .</p>
+                                    <p class="m-0">Most states have insurance laws that require drivers to have at least some automobile liability insurance. These laws were enacted to ensure that victims of automobile accidents receive compensation when their losses are caused by the actions of another individual who was negligent.</p>
+                                    <p> It is often the case that the cost of repairing the damages to an older car is greater than its value. In these cases, your insurer will usually just “total” the car and give you a check for the car’s market value less the deductible. </p>
                                 </div>
                             </div>
                         </div>
 
+
+
                         <!-- Accordion item 2 -->
                         <div class="card">
                             <div id="heading-b2" class="card-header bg-white shadow-sm border-0">
-                                <h6 class="mb-0"><a href="#" data-toggle="collapse" data-target="#collapse-b2" aria-expanded="false" aria-controls="collapse-b2" class="d-block position-relative collapsed text-dark collapsible-link py-2">What makes this company different form other?</a></h6>
+                                <h6 class="mb-0"><a href="#" data-toggle="collapse" data-target="#collapse-b2" aria-expanded="false" aria-controls="collapse-b2" class="d-block position-relative collapsed text-dark collapsible-link py-2">How much life insurance should an individual own?</a></h6>
                             </div>
                             <div id="collapse-b2" aria-labelledby="heading-b2" data-parent="#accordion-2" class="collapse">
                                 <div class="card-body p-4">
-                                    <p class="m-0">Total Security Insurance Brokers Ltd is a dynamic insurance service provider, with a technical crew that is driving insurance brokerage to new heights by creating new and improved services to its customers.</p>
+                                    <p class="m-0"><p class="p1">&ldquo;Rule of thumb&rdquo; suggests an amount of life insurance equal to 6 to 8 times annual earnings. However, many factors should be taken into account when determining the right amount of life insurance for you and your family.</p>
+                                    <p class="p1">Important factors include:</p>
+                                    <ul class="ul1">
+                                    <li class="li1">Income sources (and amounts) other than salary/earnings</li>
+                                    <li class="li1">Whether or not you are married and, if so, what is your spouse&rsquo;s earning capacity</li>
+                                    <li class="li1">The number of individuals who are financially dependent upon you</li>
+                                    <li class="li1">The amount of death benefits payable from Social Security and from an employer-sponsored life insurance plan</li>
+                                    <li class="li1">Whether any special life insurance needs exist (e.g., mortgage repayment, education fund, estate planning need, etc.)</li>
+                                    </ul>
+                                    <p class="p1">Calculating the correct amount of life insurance to buy is not as simple as it appears. We recommend contacting us for help determining the right amount of coverage.</p>
                                 </div>
                             </div>
                         </div>
