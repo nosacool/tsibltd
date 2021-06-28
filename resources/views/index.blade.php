@@ -109,7 +109,7 @@
                                     <div class="cover rounded">
                                         <div class="c-inner">
                                             <h3><i class="icofont-people"></i><span>Group Life Insurance</span></h3>
-                                            <p>A single contract covers an entire group of people, the policy covers the employees or members of the group. </p>
+                                            <p>A single contract covers an entire group of people. </p>
                                             <div class="spacer20"></div>
                                             <a href="our-insurance/group-life-insurance" class="btn-custom invert">Read more</a>
                                         </div>
